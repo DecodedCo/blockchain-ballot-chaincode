@@ -9,7 +9,6 @@ import (
     "github.com/hyperledger/fabric/core/chaincode/shim"
     "github.com/nu7hatch/gouuid"
 
-    // utils "./utils"
 )
 
 

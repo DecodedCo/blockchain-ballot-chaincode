@@ -10,7 +10,7 @@ import (
 
     "github.com/hyperledger/fabric/core/chaincode/shim"
 
-    utils "./utils"
+    utils "github.com/DecodedCo/blockchain-ballot-chaincode/utils"
 )
 
 
